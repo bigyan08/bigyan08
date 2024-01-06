@@ -45,10 +45,6 @@
 <p width="100%" align="center">
   <a align="left" href="https://github.com/bigyan08/C_programming_examples_for_beginners_to_practice" title="C Programming for beginners"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bigyan08&repo=C_programming_examples_for_beginners_to_practice&theme=gotham"></a>
 </p>
-<br><br>
-
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p width="100%" align="center">
   <a align="left" href="https://github.com/bigyan08/bigyan08.github.io" title="bigyan08.github.io"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bigyan08&repo=bigyan08.github.io&theme=gotham"></a>
 </p>
