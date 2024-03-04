@@ -43,10 +43,13 @@
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/bigyan08/C_programming_examples_for_beginners_to_practice" title="C Programming for beginners"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bigyan08&repo=C_programming_examples_for_beginners_to_practice&theme=gotham"></a>
+  <a align="left" href="https://github.com/bigyan08/jarvis_AI" title="(not)AI Voice Assistant"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bigyan08&repo=jarvis_AI&theme=gotham"></a>
 </p>
 <p width="100%" align="center">
   <a align="left" href="https://github.com/bigyan08/bigyan08.github.io" title="bigyan08.github.io"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bigyan08&repo=bigyan08.github.io&theme=gotham"></a>
+</p>
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/bigyan08/insecure_password_manager" title="Password Manager Using Python"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bigyan08&repo=insecure_password_manager&theme=gotham"></a>
 </p>
 <br><br>
 
