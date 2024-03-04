@@ -51,7 +51,7 @@
 <p width="100%" align="center">
   <a align="left" href="https://github.com/bigyan08/insecure_password_manager" title="Password Manager Using Python"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bigyan08&repo=insecure_password_manager&theme=gotham"></a>
 </p>
-<br><br>
+<br>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
