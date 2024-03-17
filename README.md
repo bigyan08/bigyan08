@@ -14,7 +14,7 @@
   <br>
   💻 I love writing code and learn anything about it
   <br>
-  🔬 I’m currently working on Web development 
+  🔬 I’m currently working on Machine Learning 
 
   💬 Ask me about <a href="https://github.com/bigyan08/bigyan08/issues" title="Issues">Here</a>
   <br>
