@@ -1,13 +1,5 @@
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bigyan08.bigyan08&"  />
-</div>
-
-###
-
-<h1 align="center">Hello World!</h1>
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
